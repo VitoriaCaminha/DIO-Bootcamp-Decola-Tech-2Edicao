@@ -1,0 +1,15 @@
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ProgramacaoOrientadaAObjetos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
