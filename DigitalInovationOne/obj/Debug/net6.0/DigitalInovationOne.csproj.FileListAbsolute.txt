@@ -1,0 +1,15 @@
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.exe
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.deps.json
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.runtimeconfig.json
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\ref\DigitalInovationOne.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.pdb
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.AssemblyReference.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfoInputs.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfo.cs
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\ref\DigitalInovationOne.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.pdb
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.genruntimeconfig.cache
