@@ -1,0 +1,15 @@
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\Revisao.exe
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\Revisao.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\ref\Revisao.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\bin\Debug\net6.0\Revisao.pdb
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\ref\Revisao.dll
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.pdb
+D:\cursos\bootcampdio\decolatech2edicao\dio-bootcamp-decola-tech-2edicao\revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
