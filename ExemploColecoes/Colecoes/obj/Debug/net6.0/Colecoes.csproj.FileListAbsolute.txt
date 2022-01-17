@@ -1,0 +1,15 @@
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Cursos\BootcampDIO\DecolaTech2Edicao\DIO-Bootcamp-Decola-Tech-2Edicao\ExemploColecoes\colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
